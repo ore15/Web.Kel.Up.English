@@ -94,6 +94,9 @@ body{
     .paralax img#earth{
         width: 80%;
     }
+    .paralax img#astro{
+        width: 150%;
+    }
   
 }
 @media (min-width: 342px){
