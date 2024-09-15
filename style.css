@@ -111,6 +111,9 @@ body{
     .paralax img#earth{
         width: 200%; 
     }
+    .paralax img#astro{
+        width: 150%;
+    }
 }
 /* hape */
 @media (min-width: 508px) {
