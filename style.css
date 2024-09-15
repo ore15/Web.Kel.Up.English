@@ -89,17 +89,15 @@ body{
     }
     .paralax img#astro{
         width: 150%;
-        left: -15%;
+        left: 15%;
     }
     .paralax img#earth{
         width: 100%;
     }
-    .paralax img#astro{
-        width: 150%;
-    }
+   
   
 }
-@media (min-width: 342px){
+@media (min-width: 341px){
     .paralax{
         width: 175%;
     }
@@ -107,7 +105,7 @@ body{
         width: 175%;
     }
 }
-@media (min-width: 342px){
+@media (min-width: 341px){
     .paralax img#jupiter{
        width: 200%;  
     }
