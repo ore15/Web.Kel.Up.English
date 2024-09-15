@@ -72,7 +72,7 @@ body{
     font-size: 3em;
 }
 /* hape */
-@media (max-width: 342px) {
+@media (max-width: 341px) {
     .paralax{
         width: 200%;
     }
@@ -81,7 +81,7 @@ body{
        
     }
     .paralax img#jupiter{
-        width: 100%;
+        width: 200%;
     }
     .paralax img#saturn{
         width: 100%;
@@ -106,7 +106,7 @@ body{
        width: 220%;  
     }
     .paralax img#earth{
-        width: 90%; 
+        width: 200%; 
     }
 }
 /* hape */
