@@ -81,7 +81,7 @@ body{
        
     }
     .paralax img#jupiter{
-        width: 170%;
+        width: 200%;
     }
     .paralax img#saturn{
         width: 100%;
@@ -92,7 +92,7 @@ body{
         left: -15%;
     }
     .paralax img#earth{
-        width: 120%;
+        width: 150%;
     }
 }
 @media (min-width: 342px){
