@@ -107,6 +107,9 @@ body{
     .paralax img#jupiter{
        width: 220%;  
     }
+    .paralax img#earth{
+        width: 150%; 
+    }
 }
 /* hape */
 @media (min-width: 508px) {
