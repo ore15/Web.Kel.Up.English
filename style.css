@@ -109,7 +109,8 @@ body{
        width: 220%;  
     }
     .paralax img#earth{
-        width: 50%; 
+        width: 100%; 
+        left: 20;
     }
     .paralax img#astro{
         width: 200%;
